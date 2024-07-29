@@ -26,6 +26,6 @@ e2=Employee.stringdot(str2)
 e2.info()
 
 
-str3="SarahKhan_21_46000"
+str3="Kevin_21_46000"
 e3=Employee.stringdash(str3)
 e3.info()
